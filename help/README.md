@@ -112,7 +112,7 @@
 ### web 后台
 
 - 举个栗子
-  + 发送`登录`、`login`或直接访问 [小枫叶](http://www.littlemaple.club) 即可
+  + ~~发送`登录`、`login`或直接访问 [登录网址](https://www.yumemi.moe/login) 即可~~
 - 正则公式
   + `^(登录|login)$`
 - 补充说明
